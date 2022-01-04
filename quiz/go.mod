@@ -1,3 +1,3 @@
-module dan2123/quiz
+module dan2123/gopher-exercises/quiz
 
 go 1.17
